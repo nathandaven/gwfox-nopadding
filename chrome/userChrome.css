@@ -86,7 +86,7 @@
 
 .browserStack {
   border-radius: 8px;
-  margin: 0 8px 8px;
+  margin: 0 0px 0px;
   box-shadow: 0 1.5px 9px light-dark(#00000026, #00000040);
 }
 
@@ -2890,7 +2890,7 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
 }
 
 #tabbrowser-tabpanels {
-  margin-top: -39px;
+  margin-top: -47px;
   transition: .25s !important;
 @media (-moz-platform: windows) {
   margin-top: -38px;
@@ -2899,7 +2899,7 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
 
 :has(#nav-bar:hover) {
 #tabbrowser-tabpanels {
-  margin-top: 0;
+  margin-top: 0px;
   transition: .25s !important;
 }
 }
