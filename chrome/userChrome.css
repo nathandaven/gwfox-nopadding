@@ -2893,7 +2893,7 @@ toolbarbutton.bookmark-item:not(.subviewbutton) {
   margin-top: -47px;
   transition: .25s !important;
 @media (-moz-platform: windows) {
-  margin-top: -38px;
+  margin-top: -46px;
 }
 }
 
